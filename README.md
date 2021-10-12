@@ -4,7 +4,7 @@
 
 ### About Me
 
-- I'm currently a Software Engineering Student at [Hack Reactor](https://www.hackreactor.com/coding-bootcamp?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-GAGxDfcp29hdLplIaXfBrrLL-noZV7WkwMzGgZ54yDuHydiM9izaxoCWAoQAvD_BwE)
+- I'm a Software Engineering Student at [Hack Reactor](https://www.hackreactor.com/coding-bootcamp?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-GAGxDfcp29hdLplIaXfBrrLL-noZV7WkwMzGgZ54yDuHydiM9izaxoCWAoQAvD_BwE)
 - In my years of research in Biophysics and Immunotherapeutic drug development, I had the pleasure of utilizing various software for data analysis and molecular modeling, and this galvanized my ambition to engineer software technologies.
 
 ---
