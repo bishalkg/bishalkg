@@ -5,7 +5,7 @@
 ### About Me
 
 - I'm a Full Stack Software Engineer
-- Check out my [Portfolio Website](www.bishalkgautam.com)
+- Check out my [Portfolio Website](http://www.bishalkgautam.com)
 
 ---
 
